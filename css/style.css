@@ -1,0 +1,56 @@
+body{
+	font-size: 16px;
+	font-weight: 400;
+}
+/*header start*/
+header{
+	padding-bottom: 40px;
+}
+.line{
+	width: 2px;
+	height: 35px;
+	background-color: #010101;
+	margin-left: 110px;
+}
+.logo{}
+.menu{}
+.menu ul{}
+.menu ul li{}
+.menu ul li a{
+	margin-right: 30px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #8e8e8e !important;
+	transition: .33s;
+}
+.menu ul li a:hover{
+	color: #333333 !important;
+}
+.nav-00:focus {
+	box-shadow: none;
+}
+.s-icon i{
+	color: #8e8e8e !important;
+}
+.s-icon i:hover{
+	color: #333333 !important;
+}
+.s-icon-1{
+	border: none;
+}
+.f-c:focus{
+	box-shadow: none;
+	border: none;
+}
+.f-c{
+	border: none;
+}
+.f-b{
+    margin-left: 15px;
+    border: none;
+}
+.t-1{
+	padding: 6px 6px;
+}
+/*header end*/
